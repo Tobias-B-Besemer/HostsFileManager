@@ -76,7 +76,7 @@ To-Dos Multi-Plattform/Multi-Language:<br>
 <br>
 To-Dos Error-Server:<br>
 - Counter for Error-Page<br>
-- Maybee Avira & Google-Ads<br>
+- Maybe Avira & Google-Ads<br>
 - Error-Pages per lists<br>
 <br>
 <br>
@@ -93,7 +93,7 @@ Some more ideas:<br>
 - Use lists from Firefox<br>
 - Import whitelist into CCleaner (Registry/INI)<br>
 - Import whitelist into NoScript (SQLite)<br>
-- Monitor port-forrwards (UPnP) from routers (AVM)<br>
+- Monitor port-forwards (UPnP) from routers (AVM)<br>
 - Bad-URLs-List from Avira<br>
 <br>
 More notes for later:<br>
