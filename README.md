@@ -147,6 +147,6 @@ Release: https://github.com/LV-Crew/HostsManager/releases/<br>
 <br>
 <br>
 <h3><b>Some Dev notes:</b></h3>
-- Version-Bump to 2017.xx.xxa (yyyy.mm.dd + letter)<br>
-- File-Names are LV-Crew.HostsManager.xxx.xyz<br>
-- Default Window Icons from https://icons8.com<br>
+- Versioning with 2017.xx.xxa (yyyy.mm.dd + letter)<br>
+- File-Names are LV-Crew.HostsFileManager.xxx.xyz<br>
+- Default Icons can be from https://icons8.com<br>
